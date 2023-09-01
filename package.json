@@ -11,6 +11,8 @@
     "react-dom": "^18.2.0",
     "react-rating-stars-component": "^2.2.0",
     "react-scripts": "5.0.1",
+    "react-redux": "^7.2.6", // Add React Redux as a dependency
+    "redux": "^4.1.2", // Add Redux as a dependency
     "web-vitals": "^2.1.4"
   },
   "scripts": {
